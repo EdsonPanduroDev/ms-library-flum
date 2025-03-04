@@ -1,0 +1,200 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Flum - 2025\\Proyectos desarrollados\\.Net\\Library.App\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{04CF4993-E2B1-4727-A7E9-96B6F3F3958E}|Library.Repository\\Library.Repository.csproj|e:\\flum - 2025\\proyectos desarrollados\\.net\\library.app\\library.repository\\repositories\\rentalrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04CF4993-E2B1-4727-A7E9-96B6F3F3958E}|Library.Repository\\Library.Repository.csproj|solutionrelative:library.repository\\repositories\\rentalrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF6E18BB-8C8E-4C04-A1B0-853B2249EE42}|Library.Application\\Library.Application.csproj|e:\\flum - 2025\\proyectos desarrollados\\.net\\library.app\\library.application\\queries\\implementations\\bookcopyquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF6E18BB-8C8E-4C04-A1B0-853B2249EE42}|Library.Application\\Library.Application.csproj|solutionrelative:library.application\\queries\\implementations\\bookcopyquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF6E18BB-8C8E-4C04-A1B0-853B2249EE42}|Library.Application\\Library.Application.csproj|e:\\flum - 2025\\proyectos desarrollados\\.net\\library.app\\library.application\\validation\\rental\\createrentalvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF6E18BB-8C8E-4C04-A1B0-853B2249EE42}|Library.Application\\Library.Application.csproj|solutionrelative:library.application\\validation\\rental\\createrentalvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10C96A5C-FDC0-4F96-AF59-0022EE31CA1D}|Library.Api\\Library.Api.csproj|e:\\flum - 2025\\proyectos desarrollados\\.net\\library.app\\library.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10C96A5C-FDC0-4F96-AF59-0022EE31CA1D}|Library.Api\\Library.Api.csproj|solutionrelative:library.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF6E18BB-8C8E-4C04-A1B0-853B2249EE42}|Library.Application\\Library.Application.csproj|e:\\flum - 2025\\proyectos desarrollados\\.net\\library.app\\library.application\\commands\\rentalcommand\\createrentalcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF6E18BB-8C8E-4C04-A1B0-853B2249EE42}|Library.Application\\Library.Application.csproj|solutionrelative:library.application\\commands\\rentalcommand\\createrentalcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10C96A5C-FDC0-4F96-AF59-0022EE31CA1D}|Library.Api\\Library.Api.csproj|e:\\flum - 2025\\proyectos desarrollados\\.net\\library.app\\library.api\\controllers\\rentalcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10C96A5C-FDC0-4F96-AF59-0022EE31CA1D}|Library.Api\\Library.Api.csproj|solutionrelative:library.api\\controllers\\rentalcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10C96A5C-FDC0-4F96-AF59-0022EE31CA1D}|Library.Api\\Library.Api.csproj|e:\\flum - 2025\\proyectos desarrollados\\.net\\library.app\\library.api\\.env||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{10C96A5C-FDC0-4F96-AF59-0022EE31CA1D}|Library.Api\\Library.Api.csproj|solutionrelative:library.api\\.env||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{229C76C7-F08C-4A01-9CF2-55EF991470B5}|Library.Domain\\Library.Domain.csproj|e:\\flum - 2025\\proyectos desarrollados\\.net\\library.app\\library.domain\\aggregates\\rental\\irentalrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{229C76C7-F08C-4A01-9CF2-55EF991470B5}|Library.Domain\\Library.Domain.csproj|solutionrelative:library.domain\\aggregates\\rental\\irentalrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 216,
+          "SelectedChildIndex": 14,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": ".env",
+              "DocumentMoniker": "E:\\Flum - 2025\\Proyectos desarrollados\\.Net\\Library.App\\Library.Api\\.env",
+              "RelativeDocumentMoniker": "Library.Api\\.env",
+              "ToolTip": "E:\\Flum - 2025\\Proyectos desarrollados\\.Net\\Library.App\\Library.Api\\.env",
+              "RelativeToolTip": "Library.Api\\.env",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-03-04T00:16:55.193Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CreateRentalValidator.cs",
+              "DocumentMoniker": "E:\\Flum - 2025\\Proyectos desarrollados\\.Net\\Library.App\\Library.Application\\Validation\\Rental\\CreateRentalValidator.cs",
+              "RelativeDocumentMoniker": "Library.Application\\Validation\\Rental\\CreateRentalValidator.cs",
+              "ToolTip": "E:\\Flum - 2025\\Proyectos desarrollados\\.Net\\Library.App\\Library.Application\\Validation\\Rental\\CreateRentalValidator.cs",
+              "RelativeToolTip": "Library.Application\\Validation\\Rental\\CreateRentalValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T00:05:58.745Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BookCopyQuery.cs",
+              "DocumentMoniker": "E:\\Flum - 2025\\Proyectos desarrollados\\.Net\\Library.App\\Library.Application\\Queries\\Implementations\\BookCopyQuery.cs",
+              "RelativeDocumentMoniker": "Library.Application\\Queries\\Implementations\\BookCopyQuery.cs",
+              "ToolTip": "E:\\Flum - 2025\\Proyectos desarrollados\\.Net\\Library.App\\Library.Application\\Queries\\Implementations\\BookCopyQuery.cs",
+              "RelativeToolTip": "Library.Application\\Queries\\Implementations\\BookCopyQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T23:45:26.463Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RentalRepository.cs",
+              "DocumentMoniker": "E:\\Flum - 2025\\Proyectos desarrollados\\.Net\\Library.App\\Library.Repository\\Repositories\\RentalRepository.cs",
+              "RelativeDocumentMoniker": "Library.Repository\\Repositories\\RentalRepository.cs",
+              "ToolTip": "E:\\Flum - 2025\\Proyectos desarrollados\\.Net\\Library.App\\Library.Repository\\Repositories\\RentalRepository.cs",
+              "RelativeToolTip": "Library.Repository\\Repositories\\RentalRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T23:24:33.745Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IRentalRepository.cs",
+              "DocumentMoniker": "E:\\Flum - 2025\\Proyectos desarrollados\\.Net\\Library.App\\Library.Domain\\Aggregates\\Rental\\IRentalRepository.cs",
+              "RelativeDocumentMoniker": "Library.Domain\\Aggregates\\Rental\\IRentalRepository.cs",
+              "ToolTip": "E:\\Flum - 2025\\Proyectos desarrollados\\.Net\\Library.App\\Library.Domain\\Aggregates\\Rental\\IRentalRepository.cs",
+              "RelativeToolTip": "Library.Domain\\Aggregates\\Rental\\IRentalRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T23:20:52.403Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CreateRentalCommandHandler.cs",
+              "DocumentMoniker": "E:\\Flum - 2025\\Proyectos desarrollados\\.Net\\Library.App\\Library.Application\\Commands\\RentalCommand\\CreateRentalCommandHandler.cs",
+              "RelativeDocumentMoniker": "Library.Application\\Commands\\RentalCommand\\CreateRentalCommandHandler.cs",
+              "ToolTip": "E:\\Flum - 2025\\Proyectos desarrollados\\.Net\\Library.App\\Library.Application\\Commands\\RentalCommand\\CreateRentalCommandHandler.cs",
+              "RelativeToolTip": "Library.Application\\Commands\\RentalCommand\\CreateRentalCommandHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T22:39:10.129Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RentalController.cs",
+              "DocumentMoniker": "E:\\Flum - 2025\\Proyectos desarrollados\\.Net\\Library.App\\Library.Api\\Controllers\\RentalController.cs",
+              "RelativeDocumentMoniker": "Library.Api\\Controllers\\RentalController.cs",
+              "ToolTip": "E:\\Flum - 2025\\Proyectos desarrollados\\.Net\\Library.App\\Library.Api\\Controllers\\RentalController.cs",
+              "RelativeToolTip": "Library.Api\\Controllers\\RentalController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBcAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T20:59:35.203Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Flum - 2025\\Proyectos desarrollados\\.Net\\Library.App\\Library.Api\\Program.cs",
+              "RelativeDocumentMoniker": "Library.Api\\Program.cs",
+              "ToolTip": "E:\\Flum - 2025\\Proyectos desarrollados\\.Net\\Library.App\\Library.Api\\Program.cs",
+              "RelativeToolTip": "Library.Api\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T20:48:12.025Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
